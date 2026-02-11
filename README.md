@@ -67,15 +67,15 @@ DATA HEAD:
 <img width="482" height="310" alt="image" src="https://github.com/user-attachments/assets/8ede3e41-2d6e-4f3f-9197-a994a81ea988" />
 
 ```
-
+```
 DATA INFO:
 <img width="445" height="294" alt="image" src="https://github.com/user-attachments/assets/2cd5bd8c-5b62-4278-a154-7199633d9282" />
+````
 
-
-
+<p align="center">
 isnull.sum()
 <img width="274" height="280" alt="image" src="https://github.com/user-attachments/assets/6732901c-41e6-4227-a0cf-0afc8da6a1f7" />
-
+</p>
 
 
 DATA HEAD OF SALARY:
@@ -96,7 +96,7 @@ DATA PREDICTION:
 <img width="902" height="61" alt="image" src="https://github.com/user-attachments/assets/cb56dd48-7bc3-4aa2-a4d2-31ae9357380c" />
 
 
-
+</p>
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
